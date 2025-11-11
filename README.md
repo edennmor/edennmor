@@ -1,9 +1,7 @@
-<!-- Banner -->
-![Eden Mor Banner](banner.png)
-<hr style="border:0;border-top:1px solid #2a428a; margin: 8px 0;">
+<div style="background: linear-gradient(180deg, #0b1d3a, #1e3a8a, #2563eb); color: #f1f5f9; padding: 60px; border-radius: 12px;">
 
-<h1 align="center">Hi 👋, I'm Eden Mor</h1>
-<h3 align="center">Software Developer | Math & CS Graduate | Passionate about Technology & Problem Solving</h3>
+<h1 align="center">👋 Hi, I'm Eden Mor</h1>
+<h3 align="center">Software Developer | Math & CS Graduate | Cybersecurity & Backend Enthusiast</h3>
 
 ---
 
@@ -22,17 +20,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|----------|--------------|-------|
-| 🔒 Thompson F Encryption Protocol | Post-quantum cryptographic protocol built with group theory | Python, Algebra, Trees |
-| 🧠 Neural Network From Scratch | Image classifier with custom backpropagation | Python, NumPy, Matplotlib |
-| ⚙ Algorithmic Toolkit | Collection of algorithms & data-structure exercises | Python |
-| 📊 Numerical Methods Portfolio | Implementations of interpolation & integration algorithms | Python, Math |
-
----
-
 ### 📬 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/eden-mor-05a115255"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
@@ -40,6 +27,6 @@
   <a href="https://github.com/edennmor"><img src="https://img.shields.io/badge/GitHub-edennmor-black?logo=github&logoColor=white"></a>
 </p>
 
----
+⭐ *"Turning ideas into code — one project at a time."*
 
-⭐ "Turning ideas into code — one project at a time."
+</div>
