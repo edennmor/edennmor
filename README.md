@@ -1,3 +1,16 @@
+<!-- Banner -->
+<p align="left">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1d3a,100:2a428a&height=260&section=header&text=Eden%20Mor&fontSize=54&fontColor=E6F1FF&desc=Software%20Developer%20|%20Backend%20%26%20Cybersecurity%20Enthusiast%0A%22Building%20secure%2C%20efficient%2C%20and%20reliable%20systems%20%E2%80%94%20one%20project%20at%20a%20time%22&descAlignY=70&descSize=18"
+    alt="Eden Mor Banner"
+  />
+</p>
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Eden Mor</h1>
 <h3 align="center">Software Developer | Math & CS Graduate | Passionate about Technology & Problem Solving</h3>
 
