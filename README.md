@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Eden Mor Banner](assets/banner.png)
+![Eden Mor Banner](banner.png)
 <hr style="border:0;border-top:1px solid #2a428a; margin: 8px 0;">
 
 <h1 align="center">Hi 👋, I'm Eden Mor</h1>
