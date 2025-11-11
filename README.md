@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Eden Mor Banner](https://capsule-render.vercel.app/api?type=wave&color=0:0b1d3a,100:2a428a&height=240&section=header&text=Eden%20Mor&fontSize=52&fontColor=E6F1FF&desc=Software%20Developer%20%7C%20Backend%20%26%20Cybersecurity%20Enthusiast&descSize=18)
+![Eden Mor Banner](assets/banner.png)
 <hr style="border:0;border-top:1px solid #2a428a; margin: 8px 0;">
 
 <h1 align="center">Hi 👋, I'm Eden Mor</h1>
