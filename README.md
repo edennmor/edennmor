@@ -5,12 +5,6 @@
     alt="Eden Mor Banner"
   />
 </p>
-
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Eden Mor</h1>
 <h3 align="center">Software Developer | Math & CS Graduate | Passionate about Technology & Problem Solving</h3>
 
